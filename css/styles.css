@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  flex-direction: column;
+}
+.underline {
+  text-decoration: underline;
+  color: blue;
+}
+.address {
+  font-size: 20px;
+}
